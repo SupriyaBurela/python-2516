@@ -16,7 +16,7 @@ if grade_level>=9 and grade_level<=12:
 elif grade_level>=6 and grade_level<=8:
     discount=5
 else:
-    print("no discount") 
+    discount=0 
 if grade_level==10:
     discount=23
 elif grade_level==12:
