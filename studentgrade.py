@@ -26,7 +26,8 @@ else:
     
 print(f"student name{student_name}") 
 print(f"student id{student_id}")            
-print(f"average score{average_score}")    
+print(f"average score{average_score}")
+print(f"student attendence{attendence}")
 print(f"no of subjects{no_of_subjects}")
 print(f"total score{total_score}")
 print(f"performance{performance}")
